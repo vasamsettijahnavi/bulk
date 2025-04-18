@@ -74,5 +74,3 @@ export async function testConnection() {
     return false
   }
 }
-
-// Make sure query is exported as a named export
