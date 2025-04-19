@@ -1,6 +1,6 @@
 import Link from "next/link"
 
-export default function Home() {
+export default function Page() {
   return (
     <main className="min-h-screen bg-gradient-to-b from-green-50 to-green-100 p-4">
       <div className="max-w-6xl mx-auto pt-12 pb-24">

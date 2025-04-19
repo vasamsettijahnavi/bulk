@@ -74,3 +74,5 @@ export async function testConnection() {
     return false
   }
 }
+
+// Ensure query is exported
